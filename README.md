@@ -1,13 +1,13 @@
 # Room Expense
+  
+![img_1](https://github.com/MultiQoSTechnologies/room_expense_ios/assets/155718990/69d71209-2b2a-42ab-a6aa-8171543b361c)
+
+![img_2](https://github.com/MultiQoSTechnologies/room_expense_ios/assets/155718990/e4aa7312-a552-4c79-9efe-7877de04ac15)
  
-![img_2](https://github.com/umangmos/room_expence/assets/155718990/b51f31e0-9c8e-4cd2-9150-9d31557d51a4)
 
-![img_1](https://github.com/umangmos/room_expence/assets/155718990/419d85e4-acc2-4d66-a277-59e2f44428b3)
+https://github.com/MultiQoSTechnologies/room_expense_ios/assets/155718990/df31ad1a-a8cd-4cbe-9b60-a5591cafe926
 
-
-https://github.com/umangmos/room_expence/assets/155718990/54af3690-4c94-4c8f-a947-d1075b3f9cbf
-
-
+ 
 ## Key Features
 
 * **Registration:**
