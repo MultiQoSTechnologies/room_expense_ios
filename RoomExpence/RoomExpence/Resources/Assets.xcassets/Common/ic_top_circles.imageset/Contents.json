@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ic_top_circles.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
