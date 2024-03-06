@@ -1,8 +1,8 @@
 # Room Expense
-
-![img_2](https://github.com/MultiQoSTechnologies/room_expense_ios/assets/155718990/e4aa7312-a552-4c79-9efe-7877de04ac15)
-![img_1](https://github.com/MultiQoSTechnologies/room_expense_ios/assets/155718990/69d71209-2b2a-42ab-a6aa-8171543b361c)
  
+ ![img_2](https://github.com/MultiQoSTechnologies/room_expense_ios/assets/155718990/b221d8bb-4c17-4955-9ab9-83c8ff4a5924)
+![img_1](https://github.com/MultiQoSTechnologies/room_expense_ios/assets/155718990/3cf35710-bcc6-40e2-aec5-ba944debfcbe)
+
 
 https://github.com/MultiQoSTechnologies/room_expense_ios/assets/155718990/df31ad1a-a8cd-4cbe-9b60-a5591cafe926
 
